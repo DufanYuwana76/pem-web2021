@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<!-- silahkan komen disini -->
+<p>This is a paragraph.</p>
+<!-- Comments are not displayed in the browser -->
+
+</body>
+</html>
